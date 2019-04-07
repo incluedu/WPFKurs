@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\bin\Debug\c028_GridPanel.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\bin\Debug\c028_GridPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\bin\Debug\c028_GridPanel.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c028_GridPanel\obj\Debug\c028_GridPanel.pdb

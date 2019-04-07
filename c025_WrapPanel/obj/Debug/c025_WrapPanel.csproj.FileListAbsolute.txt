@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\bin\Debug\c025_WrapPanel.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\bin\Debug\c025_WrapPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\bin\Debug\c025_WrapPanel.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c025_WrapPanel\obj\Debug\c025_WrapPanel.pdb

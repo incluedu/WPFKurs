@@ -1,0 +1,28 @@
+﻿<Window x:Class="c017_TextBoxControll.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:c017_TextBoxControll"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBox Grid.Row="0" />
+        <TextBox AcceptsReturn="True" TextWrapping="Wrap" Grid.Row="1" />
+        <TextBox AcceptsReturn="True" TextWrapping="Wrap" SpellCheck.IsEnabled="True" Language="de-De"  Grid.Row="2"/>
+        
+        <DockPanel Margin="10" Grid.Row="3">
+            <TextBox SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top" />
+            <TextBox Name="txtStatus" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" />
+
+        </DockPanel>
+    </Grid>
+</Window>

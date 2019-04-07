@@ -1,0 +1,53 @@
+﻿<Window x:Class="c019_RadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:c019_RadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackPanel Margin="10" Grid.Row="0">
+            <Label FontWeight="Bold">Are you ready?</Label>
+            <RadioButton GroupName="ready">Yes</RadioButton>
+            <RadioButton GroupName="ready">No</RadioButton>
+            <RadioButton GroupName="ready" IsChecked="True">Maybe</RadioButton>
+
+            <Label FontWeight="Bold">Male or female?</Label>
+            <RadioButton GroupName="sex">Male</RadioButton>
+            <RadioButton GroupName="sex">Female</RadioButton>
+            <RadioButton GroupName="sex" IsChecked="True">Not sure</RadioButton>
+        </StackPanel>
+        
+        <StackPanel Margin="10" Grid.Row="1">
+            <Label FontWeight="Bold">Are you ready?</Label>
+            <RadioButton>
+                <WrapPanel>
+                    <Image Source="icons/accept.png" Width="16" Height="16" Margin="0,0,5,0" />
+                    <TextBlock Text="Yes" Foreground="Green" />
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton Margin="0,5">
+                <WrapPanel>
+                    <Image Source="icons/cancel.png" Width="16" Height="16" Margin="0,0,5,0" />
+                    <TextBlock Text="No" Foreground="Red" />
+                </WrapPanel>
+            </RadioButton>
+            <RadioButton IsChecked="True">
+                <WrapPanel>
+                    <Image Source="icons/bomb.png" Width="16" Height="16" Margin="0,0,5,0" />
+                    <TextBlock Text="Maybe" Foreground="Gray" />
+                </WrapPanel>
+            </RadioButton>
+        </StackPanel>
+        
+        <!--https://www.wpf-tutorial.com/de/19/grundlegende-kontrollobjekte/das-radiobutton-steuerelement/-->
+
+    </Grid>
+</Window>

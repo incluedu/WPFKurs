@@ -1,0 +1,10 @@
+﻿<Application x:Class="c012_ResourcenEx2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:c012_ResourcenEx2"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <system:String x:Key="StrApp">Hello, Application world!</system:String>
+    </Application.Resources>
+</Application>

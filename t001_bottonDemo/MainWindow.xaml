@@ -1,0 +1,14 @@
+﻿<Window x:Class="t001_bottonDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:t001_bottonDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <Button Style="{StaticResource MyButtonStyle}" Width="7" Height="7" Canvas.Top="20" Canvas.Left="10" Name="Btn0101" Click="Btn0101_Clicked"/>
+        <Button Width="7" Height="7" Canvas.Top="20" Canvas.Left="20"/>
+        <Button Width="7" Height="7" Canvas.Top="20" Canvas.Left="30"/>
+    </Canvas>
+</Window>

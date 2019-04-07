@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\bin\Debug\c018_Checkbox.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\bin\Debug\c018_Checkbox.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\bin\Debug\c018_Checkbox.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c018_Checkbox\obj\Debug\c018_Checkbox.pdb

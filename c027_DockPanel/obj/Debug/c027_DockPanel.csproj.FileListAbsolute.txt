@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\bin\Debug\c027_DockPanel.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\bin\Debug\c027_DockPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\bin\Debug\c027_DockPanel.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c027_DockPanel\obj\Debug\c027_DockPanel.pdb

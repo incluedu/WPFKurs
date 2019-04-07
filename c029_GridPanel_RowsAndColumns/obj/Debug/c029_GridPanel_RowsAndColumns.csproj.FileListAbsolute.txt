@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\bin\Debug\c029_GridPanel_RowsAndColumns.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\bin\Debug\c029_GridPanel_RowsAndColumns.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\bin\Debug\c029_GridPanel_RowsAndColumns.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c029_GridPanel_RowsAndColumns\obj\Debug\c029_GridPanel_RowsAndColumns.pdb

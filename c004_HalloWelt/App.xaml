@@ -1,0 +1,9 @@
+﻿<Application x:Class="_004_HalloWelt.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_004_HalloWelt"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

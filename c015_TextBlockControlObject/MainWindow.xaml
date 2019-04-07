@@ -1,0 +1,39 @@
+﻿<Window x:Class="c015_TextBlockControlObject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:c015_TextBlockControlObject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock Margin="10" TextWrapping="Wrap" Grid.Row="0">
+            TextBlock with <Bold>bold</Bold>, <Italic>italic</Italic> and <Underline>underlined</Underline> text.
+        </TextBlock>
+        
+        <TextBlock Margin="10" TextWrapping="Wrap" Grid.Row="1">
+            This text has a <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="http://www.lustenauer.net">link</Hyperlink> in it.
+        </TextBlock>
+        
+        <TextBlock Margin="10" TextWrapping="Wrap" Grid.Row="2">
+            This <Span FontWeight="Bold">is</Span> a
+            <Span Background="Silver" Foreground="Maroon">TextBlock</Span>
+            with <Span TextDecorations="Underline">several</Span>
+            <Span FontStyle="Italic">Span</Span> elements,
+            <Span Foreground="Blue">
+                using a <Bold>variety</Bold> of <Italic>styles</Italic>
+            </Span>.
+        </TextBlock>
+        
+    </Grid>
+    
+    <!--https://www.wpf-tutorial.com/de/15/grundlegende-kontrollobjekte/das-textblock-kontrollobjekt-inline-formatierung/-->
+</Window>

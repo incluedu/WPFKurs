@@ -1,0 +1,36 @@
+﻿<Window x:Class="c025_WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:c025_WrapPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <WrapPanel Grid.Row="0">
+        <Button>Test button 1</Button>
+        <Button>Test button 2</Button>
+        <Button>Test button 3</Button>
+        <Button Height="40">Test button 4</Button>
+        <Button Height="20">Test button 5</Button>
+        <Button>Test button 6</Button>
+    </WrapPanel>
+    
+    <WrapPanel Orientation="Vertical" Grid.Row="1">
+        <Button>Test button 1</Button>
+        <Button>Test button 2</Button>
+        <Button>Test button 3</Button>
+        <Button Width="140">Test button 4</Button>
+        <Button>Test button 5</Button>
+        <Button>Test button 6</Button>
+    </WrapPanel>
+    </Grid>
+</Window>
