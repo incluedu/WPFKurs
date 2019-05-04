@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\bin\Debug\c015_TextBlockControlObject.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\bin\Debug\c015_TextBlockControlObject.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\bin\Debug\c015_TextBlockControlObject.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c015_TextBlockControlObject\obj\Debug\c015_TextBlockControlObject.pdb

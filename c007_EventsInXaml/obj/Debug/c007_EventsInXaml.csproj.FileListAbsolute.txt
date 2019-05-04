@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\bin\Debug\c007_EventsInXaml.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\bin\Debug\c007_EventsInXaml.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\bin\Debug\c007_EventsInXaml.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\_007_EventsInXaml.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c007_EventsInXaml\obj\Debug\c007_EventsInXaml.pdb

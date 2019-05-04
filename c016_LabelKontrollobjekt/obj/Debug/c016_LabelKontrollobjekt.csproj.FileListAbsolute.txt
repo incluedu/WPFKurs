@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\bin\Debug\c016_LabelKontrollobjekt.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\bin\Debug\c016_LabelKontrollobjekt.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\bin\Debug\c016_LabelKontrollobjekt.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c016_LabelKontrollobjekt\obj\Debug\c016_LabelKontrollobjekt.pdb

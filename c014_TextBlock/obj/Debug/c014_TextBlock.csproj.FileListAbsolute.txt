@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\bin\Debug\c014_TextBlock.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\bin\Debug\c014_TextBlock.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\bin\Debug\c014_TextBlock.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c014_TextBlock\obj\Debug\c014_TextBlock.pdb
