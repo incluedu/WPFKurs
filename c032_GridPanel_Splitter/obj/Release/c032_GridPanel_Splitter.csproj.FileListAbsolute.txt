@@ -1,0 +1,14 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\bin\Release\c032_GridPanel_Splitter.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\bin\Release\c032_GridPanel_Splitter.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\bin\Release\c032_GridPanel_Splitter.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c032_GridPanel_Splitter\obj\Release\c032_GridPanel_Splitter.pdb

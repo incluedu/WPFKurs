@@ -1,0 +1,14 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\bin\Release\c017_TextBoxControll.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\bin\Release\c017_TextBoxControll.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\bin\Release\c017_TextBoxControll.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c017_TextBoxControll\obj\Release\c017_TextBoxControll.pdb

@@ -1,0 +1,16 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\bin\Release\c012_Resourcen.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\bin\Release\c012_Resourcen.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\bin\Release\c012_Resourcen.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\App.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c012_Resourcen\obj\Release\c012_Resourcen.pdb

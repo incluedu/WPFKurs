@@ -1,0 +1,16 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\bin\Release\t001_bottonDemo.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\bin\Release\t001_bottonDemo.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\bin\Release\t001_bottonDemo.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\UserControl1.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\UserControl1.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\t001_bottonDemo\obj\Release\t001_bottonDemo.pdb

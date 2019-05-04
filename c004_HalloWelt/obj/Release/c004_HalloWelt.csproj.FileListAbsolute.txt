@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\bin\Release\c004_HalloWelt.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\bin\Release\c004_HalloWelt.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\bin\Release\c004_HalloWelt.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\_004_HalloWelt.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c004_HalloWelt\obj\Release\c004_HalloWelt.pdb

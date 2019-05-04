@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\bin\Release\c036_DataContext.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\bin\Release\c036_DataContext.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\bin\Release\c036_DataContext.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c036_DataContext\obj\Release\c036_DataContext.pdb

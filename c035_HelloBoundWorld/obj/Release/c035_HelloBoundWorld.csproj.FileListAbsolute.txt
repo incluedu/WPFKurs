@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\bin\Release\c035_HelloBoundWorld.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\bin\Release\c035_HelloBoundWorld.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\bin\Release\c035_HelloBoundWorld.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c035_HelloBoundWorld\obj\Release\c035_HelloBoundWorld.pdb

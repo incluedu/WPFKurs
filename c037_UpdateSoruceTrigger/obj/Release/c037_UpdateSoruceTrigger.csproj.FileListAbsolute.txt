@@ -1,0 +1,15 @@
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\bin\Release\c037_UpdateSoruceTrigger.exe.config
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\bin\Release\c037_UpdateSoruceTrigger.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\bin\Release\c037_UpdateSoruceTrigger.pdb
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.csprojAssemblyReference.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\MainWindow.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\App.g.cs
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger_MarkupCompile.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger_MarkupCompile.lref
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\MainWindow.baml
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.g.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.Properties.Resources.resources
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.csproj.GenerateResource.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.exe
+D:\c#\c#Projects\wpf-tutorial\tutorial\c037_UpdateSoruceTrigger\obj\Release\c037_UpdateSoruceTrigger.pdb
